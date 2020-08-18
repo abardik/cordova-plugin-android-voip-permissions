@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-android-voip-permissions",
+  "version": "0.0.4",
+  "description": "Cordova plugin to add VoIP permissions for Android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abardik/cordova-plugin-android-voip-permissions.git"
+  },
+  "keywords": [
+    "cordova",
+    "camera",
+    "microphone",
+    "voip",
+    "permissions",
+    "android",
+    "plugin"
+  ],
+  "author": "abardik",
+  "license": "MIT",
+  "homepage": "https://github.com/abardik/cordova-plugin-android-voip-permissions"
+}
